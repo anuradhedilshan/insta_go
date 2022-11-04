@@ -1,9 +1,8 @@
-<img src="/img/1.png" align="left">
-<br/> <br/>
+<img src="/img/1.png" align="right">
 
 
-
-
+Insta_GO
+=============
 insta_go is High Performance Distributed instagram data scrapper and api written in GoLang
 
 ## Roadmap
